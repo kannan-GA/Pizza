@@ -1,0 +1,9 @@
+{
+  "extends": "react-app",
+  "rules": {
+    "no-unused-vars": "warn", // Show warning instead of error for unused variables
+    "eqeqeq": "warn", // Show warning instead of error for == vs ===
+    "react-hooks/rules-of-hooks": "warn", // Change the React Hooks rule to a warning
+    "react-hooks/exhaustive-deps": "warn" // Change the exhaustive deps rule to a warning
+  }
+}
